@@ -25,7 +25,7 @@ The distribution of usage time across different user segments.
 Potential variations in social media usage based on demographics.
 This information can be valuable for social media platforms to optimize user experience and engagement. Additionally, businesses can leverage this data to tailor their social media marketing strategies to target audiences effectively.
 
-<img src="C:\Users\DotNet\OneDrive\Desktop\data set\front-view-woman-holding-smartphone.jpg" alt="" height="500">
+<img src="https://i.pinimg.com/564x/e5/c9/0a/e5c90a3c3c5d7e329c8b2eb2f183d6d3.jpg" alt="" height="500">
 <br>
 <br>
 ## Team members<br>
