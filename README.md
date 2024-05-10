@@ -1,7 +1,6 @@
 # Introduction
 
 Key Variables:
-
 Daily Time Spent: The total duration (minutes/hours) users spend on social media platforms per day.
 Demographics: Age, gender, location
 Platform Usage: Time spent on specific social media platforms (optional)
@@ -19,7 +18,6 @@ We can further segment the data by demographics like age and gender to identify 
 Expected Outcomes:
 
 By analyzing these descriptive statistics, we hope to gain insights into:
-
 The typical amount of time users dedicate to social media daily.
 The distribution of usage time across different user segments.
 Potential variations in social media usage based on demographics.
@@ -27,7 +25,7 @@ This information can be valuable for social media platforms to optimize user exp
 
 <img src="https://i.pinimg.com/564x/e5/c9/0a/e5c90a3c3c5d7e329c8b2eb2f183d6d3.jpg" alt="" height="500">
 <br>
-<br>
+
 ## Team members<br>
 - Fraidun bahaden
 - Mustafa musab
