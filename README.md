@@ -24,6 +24,8 @@ The typical amount of time users dedicate to social media daily.
 The distribution of usage time across different user segments.
 Potential variations in social media usage based on demographics.
 This information can be valuable for social media platforms to optimize user experience and engagement. Additionally, businesses can leverage this data to tailor their social media marketing strategies to target audiences effectively.
+
+<img src="C:\Users\DotNet\OneDrive\Desktop\data set\front-view-woman-holding-smartphone.jpg" alt="" height="500">
 <br>
 <br>
 ## Team members<br>
