@@ -27,7 +27,7 @@ This information can be valuable for social media platforms to optimize user exp
 <br>
 
 ## Team members<br>
-- Fraidun bahaden
+- Faraidun bahaden
 - Mustafa musab
 - Abdulazeez Qusay 
 - Rekan yunis
