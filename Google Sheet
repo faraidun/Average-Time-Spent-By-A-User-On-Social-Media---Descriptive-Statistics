@@ -1,5 +1,2 @@
-link_text = "Google Sheet"
-google_sheet_link = "https://docs.google.com/spreadsheets/d/1HlxfVF7x4uCksxEcKW8GtZgqGxzE2Asc3SPS-qapEFc/edit?usp=sharing"
-
-html_link = f'<a href="{google_sheet_link}">{link_text}</a>'
-print(html_link)
+#Google Sheet
+[Google Sheet](https://docs.google.com/spreadsheets/d/1HlxfVF7x4uCksxEcKW8GtZgqGxzE2Asc3SPS-qapEFc/edit?usp=sharing)
